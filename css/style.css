@@ -13,7 +13,7 @@ vertical-align: middle;
 margin-left: 130px;
 margin-right: 761px;
 }
-nav{
+.header_nav{
     display: inline-block;
     vertical-align: middle;
 }
@@ -163,4 +163,52 @@ font-style: normal;
 font-weight: 400;
 line-height: 36px;
 letter-spacing: 0.12px;
+}
+footer{
+    background: #2A9D8F;
+    width: 1440px;
+    margin: auto;
+padding: 90px 130px;
+margin-top: 200px;
+}
+.footer_logo{
+    width: 98px;
+    height: 98px;
+    padding: 24px 28px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+    border: 3px solid #FFF;
+    vertical-align: top;
+}
+.footer_nav{
+    display: inline-block;
+    margin-left: 934px;
+    vertical-align: top;
+
+}
+.footer_h3{
+    color: #FFF;
+    font-family: 'Poppins', sans-serif;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 30px;
+margin-bottom: 21px
+}
+.footer_ul{
+
+    font-family: 'Poppins', sans-serif;
+    color: #FFF;
+
+
+}
+.middle_footer_li{
+    margin-top: 8px;
+    margin-bottom: 8px;
+    
+}
+.footer_li a{
+    color: #FFF;
+
 }
