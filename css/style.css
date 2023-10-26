@@ -34,3 +34,41 @@ display: inline-block;
     margin-left: 18px;
     margin-right: 18px ;
 }
+/* article */
+article{
+    width: 780px;
+height: 434px;
+margin: auto;
+margin-top: 200px;
+}
+.h3_article{
+    color: #4D4D4D;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+font-size: 48px;
+font-style: normal;
+font-weight: 500;
+line-height: 130%;
+}
+.p_article{
+    color: #656565;
+margin-top: 60px;
+text-align: justify;
+font-family: 'Nerko One', cursive;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 150%;
+width: 780px;
+}
+.p1_article{
+    color: #656565;
+margin-top: 52px;
+text-align: justify;
+font-family: 'Nerko One', cursive;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 170%;
+width: 780px;
+}
